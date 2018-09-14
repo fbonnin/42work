@@ -1,4 +1,4 @@
-<h1>Travaux de Florent Bonnin à l'école 42 depuis avril 2017.</h1>
+<h1>auteur : Florent Bonnin</h1>
 
 Actuellement tous les travaux sont en langage C.
 
