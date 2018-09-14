@@ -1,5 +1,3 @@
-<h1>auteur : Florent Bonnin</h1>
-
 Actuellement tous les travaux sont en langage C.
 
 <h3>libft</h3>
